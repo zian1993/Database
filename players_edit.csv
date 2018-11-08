@@ -1,0 +1,737 @@
+first-name,last-name,team,jersey,position,Bdate,height,caps,goals,match_red_card
+Jordan,PICKFORD ,England,1,Goalkeeper,7-Mar-94,185,10,0,0
+Hirving,LOZANO ,Mexico,22,Forward,30-Jul-95,176,32,8,0
+SAMIR,SAAD ,Egypt,20,Defender,1-Apr-89,183,11,0,null
+Marcus,RASHFORD ,England,19,Forward,31-Oct-97,180,25,3,0
+Diego,COSTA ,Spain,19,Forward,7-Oct-88,185,24,10,0
+Arkadiusz,MILIK ,Poland,7,Forward,28-Feb-94,186,41,12,0
+David,GUZMAN ,Costa Rica,20,Midfielder,18-Feb-90,176,48,0,0
+Renato,TAPIA ,Peru,13,Midfielder,28-Jul-95,185,33,3,0
+Josip,DRMIC ,Switzerland,19,Forward,8-Aug-92,184,32,10,0
+Benjamin,PAVARD ,France,2,Defender,28-Mar-96,186,12,1,0
+Victor,MOSES ,Nigeria,11,Forward,12-Dec-90,177,34,12,0
+Giorgian,DE ARRASCAETA ,Uruguay,10,Forward,1-Jun-94,172,16,2,0
+Mario,GOMEZ ,Germany,23,Forward,10-Jul-85,189,78,31,0
+John,STONES ,England,5,Defender,28-May-94,188,33,2,0
+Nemanja,MATIC ,Serbia,21,Midfielder,1-Aug-88,194,43,2,0
+MANSOUR,ALHARBI ,Saudi Arabia,2,Defender,19-Oct-87,173,39,1,null
+Dedryck,BOYATA ,Belgium,20,Defender,28-Nov-90,188,10,0,0
+CEDRIC, ,Portugal,21,Defender,31-Aug-91,172,32,1,0
+David,SILVA ,Spain,21,Forward,8-Jan-86,170,125,35,0
+Luis,SUAREZ ,Uruguay,9,Forward,24-Jan-87,182,103,53,0
+Jamie,MacLAREN ,Australia,14,Forward,29-Jul-93,178,6,0,null
+Michal,PAZDAN ,Poland,2,Defender,21-Sep-87,181,35,0,0
+Francois,MOUBANDJE ,Switzerland,3,Defender,21-Jun-90,180,18,0,null
+Jamie,VARDY ,England,11,Forward,11-Jan-87,178,26,7,0
+Christian,CUEVA ,Peru,8,Midfielder,23-Nov-91,169,48,8,0
+Dusan,TADIC ,Serbia,10,Midfielder,20-Nov-88,181,56,12,0
+Jose,CORONA ,Mexico,1,Goalkeeper,26-Jan-81,182,54,0,null
+Simeon,NWANKWO ,Nigeria,13,Forward,7-May-92,197,4,0,0
+Giovani,LO CELSO,Argentina,20,Midfielder,9-Apr-96,177,5,0,null
+Jon,BODVARSSON ,Iceland,22,Forward,25-May-92,189,39,2,0
+OH,Bansuk ,Korea Republic,4,Defender,20-May-88,189,2,0,null
+Rami,BEDOUI ,Tunisia,6,Defender,19-Jan-90,187,11,3,0
+Adil,RAMI ,France,17,Defender,27-Dec-85,190,35,1,null
+Marvin,PLATTENHARDT ,Germany,2,Defender,26-Jan-92,181,7,0,0
+Shinji,KAGAWA ,Japan,10,Midfielder,17-Mar-89,175,95,31,0
+OSAMA,HAWSAWI ,Saudi Arabia,3,Defender,31-Mar-84,188,138,7,0
+Luis,ADVINCULA ,Peru,17,Defender,2-Mar-90,178,68,0,0
+MOHAMED,ELNENY ,Egypt,17,Midfielder,11-Jul-92,181,64,5,0
+Nabil,DIRAR ,Morocco,17,Defender,25-Feb-86,187,40,5,0
+Alfred,NDIAYE ,Senegal,13,Midfielder,6-Mar-90,186,18,1,0
+Sverrir,INGASON ,Iceland,5,Defender,5-Aug-93,188,22,3,0
+ABDULLAH,OTAYF ,Saudi Arabia,14,Midfielder,3-Aug-92,177,16,1,0
+Jefferson,FARFAN ,Peru,10,Forward,26-Oct-84,177,86,25,0
+MUHANNAD,ASIRI ,Saudi Arabia,20,Forward,14-Oct-86,185,19,4,0
+Danny,ROSE ,England,3,Defender,2-Jul-90,173,23,0,0
+Robbie,KRUSE ,Australia,10,Forward,5-Oct-88,180,67,5,0
+MARIO,FERNANDES ,Russia,2,Defender,19-Sep-90,187,10,1,0
+Marcus,BERG ,Sweden,9,Forward,17-Aug-86,183,62,18,0
+Cristian,GAMBOA ,Costa Rica,16,Defender,24-Oct-89,175,71,3,0
+Trent,ALEXANDER-ARNOLD ,England,22,Defender,7-Oct-98,175,2,0,0
+Valentin,PIMENTEL ,Panama,14,Midfielder,30-May-91,189,23,1,null
+MOTAZ,HAWSAWI ,Saudi Arabia,23,Defender,17-Feb-92,180,17,0,0
+Steven,ZUBER ,Switzerland,14,Midfielder,17-Aug-91,182,15,4,0
+Yerry,MINA ,Colombia,13,Defender,23-Sep-94,194,15,6,0
+Leonel,MOREIRA ,Costa Rica,23,Goalkeeper,2-Apr-90,179,9,0,null
+Luis,OVALLE ,Panama,17,Defender,7-Sep-88,178,26,0,0
+Nicolas,OTAMENDI ,Argentina,17,Defender,12-Feb-88,181,58,4,0
+Oghenekaro,ETEBO ,Nigeria,8,Midfielder,9-Nov-95,174,15,1,0
+Guillermo,OCHOA ,Mexico,13,Goalkeeper,13-Jul-85,185,98,0,0
+Genki,HARAGUCHI ,Japan,8,Midfielder,9-May-91,178,36,7,0
+Sardar,AZMOUN ,IR Iran,20,Forward,1-Jan-95,186,35,23,0
+Birkir,BJARNASON ,Iceland,8,Midfielder,27-May-88,183,70,9,0
+Emil,HALLFREDSSON ,Iceland,20,Midfielder,29-Jun-84,186,66,1,0
+Sebastian,LARSSON ,Sweden,7,Midfielder,6-Jun-85,178,104,6,0
+CASEMIRO, ,Brazil,5,Midfielder,23-Feb-92,185,28,0,0
+Vladimir,STOJKOVIC ,Serbia,1,Goalkeeper,28-Jul-83,195,84,0,0
+Samuel,FRIDJONSSON ,Iceland,3,Midfielder,22-Feb-96,185,4,1,null
+Carlos,SANCHEZ ,Colombia,6,Midfielder,6-Feb-86,182,83,0,1
+Miguel,TRAUCO ,Peru,6,Defender,25-Aug-92,169,29,0,0
+Fidel,ESCOBAR ,Panama,4,Defender,9-Jan-95,182,26,1,0
+Naim,SLITI ,Tunisia,23,Forward,27-Jul-92,173,22,3,0
+Bryan,OVIEDO ,Costa Rica,8,Defender,18-Feb-90,172,44,1,0
+Edinson,CAVANI ,Uruguay,21,Forward,14-Feb-87,188,105,45,0
+Alfredo,TALAVERA ,Mexico,12,Goalkeeper,18-Sep-82,188,28,0,null
+Javier,HERNANDEZ ,Mexico,14,Forward,1-Jun-88,175,106,50,0
+Bartosz,BIALKOWSKI ,Poland,12,Goalkeeper,6-Jul-87,194,1,0,null
+MOHAMED,KANNO ,Saudi Arabia,12,Midfielder,22-Sep-94,192,7,1,0
+Diafra,SAKHO ,Senegal,15,Forward,24-Dec-89,184,12,3,0
+Ever,BANEGA ,Argentina,7,Midfielder,29-Jun-88,175,65,6,0
+Viktor,CLAESSON ,Sweden,17,Midfielder,2-Jan-92,183,27,3,0
+Achraf,HAKIMI ,Morocco,2,Defender,4-Nov-98,179,15,1,0
+Massimo,LUONGO ,Australia,8,Midfielder,25-Sep-92,176,36,5,null
+PAULINHO, ,Brazil,15,Midfielder,25-Jul-88,181,55,13,0
+Naomichi,UEDA ,Japan,2,Defender,24-Oct-94,186,4,0,null
+HONG,Chul ,Korea Republic,14,Defender,17-Sep-90,176,16,0,0
+GELSON,MARTINS ,Portugal,18,Forward,11-May-95,173,19,0,0
+Anice,BADRI ,Tunisia,9,Midfielder,18-Sep-90,178,13,3,0
+Sergio,RAMOS ,Spain,15,Defender,30-Mar-86,183,156,13,0
+Farouk,BEN MUSTAPHA,Tunisia,1,Goalkeeper,1-Jul-89,192,16,0,0
+Dusko,TOSIC ,Serbia,3,Defender,19-Jan-85,185,26,1,0
+Marcelo,BROZOVIC ,Croatia,11,Midfielder,16-Nov-92,181,41,6,0
+Hector,MORENO ,Mexico,15,Defender,17-Jan-88,182,95,3,0
+Nabil,FEKIR ,France,18,Forward,18-Jul-93,173,18,2,0
+MANUEL,FERNANDES ,Portugal,4,Midfielder,5-Feb-86,174,15,3,0
+Ahmed,MUSA ,Nigeria,7,Forward,14-Oct-92,173,73,15,0
+Ryota,OHSHIMA ,Japan,18,Midfielder,23-Jan-93,168,5,0,null
+Mats,HUMMELS ,Germany,5,Defender,16-Dec-88,192,66,5,0
+Ghanem,SAISS ,Morocco,6,Defender,26-Mar-90,190,28,2,0
+Pejman,MONTAZERI ,IR Iran,15,Defender,6-Sep-83,185,46,1,null
+RENATO,AUGUSTO ,Brazil,8,Midfielder,8-Feb-88,186,31,6,0
+Carlos,SALCEDO ,Mexico,3,Defender,29-Sep-93,189,25,0,0
+Stephan,LICHTSTEINER ,Switzerland,2,Defender,16-Jan-84,181,103,8,0
+Juan,QUINTERO ,Colombia,20,Midfielder,18-Jan-93,169,19,3,0
+Dele,ALLI ,England,20,Midfielder,11-Apr-96,188,30,3,0
+Isaac,Kiese THELIN,Sweden,22,Forward,24-Jun-92,189,24,2,0
+Syam,BEN YOUSSEF,Tunisia,2,Defender,31-Mar-89,189,44,1,0
+Blas,PEREZ ,Panama,7,Forward,13-Mar-81,187,119,43,0
+WILLIAM, ,Portugal,14,Midfielder,7-Apr-92,190,47,2,0
+FAGNER, ,Brazil,22,Defender,11-Jun-89,168,8,0,0
+Angel,DI MARIA,Argentina,11,Midfielder,14-Feb-88,178,97,20,0
+Manuel,NEUER ,Germany,1,Goalkeeper,27-Mar-86,193,79,0,0
+Frederik,RONNOW ,Denmark,22,Goalkeeper,4-Aug-92,190,6,0,null
+MARIO,RUI ,Portugal,19,Defender,27-May-91,168,4,0,null
+Ali,MAALOUL ,Tunisia,12,Defender,1-Jan-90,170,49,8,0
+Nick,POPE ,England,23,Goalkeeper,19-Apr-92,191,1,0,null
+Wilfredo,CABALLERO ,Argentina,23,Goalkeeper,28-Sep-81,186,5,0,0
+Alphonse,AREOLA ,France,23,Goalkeeper,27-Feb-93,195,0,0,null
+Milan,RODIC ,Serbia,14,Defender,2-Apr-91,185,1,0,null
+SAM,MORSY ,Egypt,5,Midfielder,10-Sep-91,173,6,0,0
+Saifeddine,KHAOUI ,Tunisia,7,Forward,27-Apr-95,180,6,0,0
+Cristian,RODRIGUEZ ,Uruguay,7,Midfielder,30-Sep-85,178,110,11,0
+Jonathan,DOS SANTOS,Mexico,6,Midfielder,26-Apr-90,173,38,0,0
+LEE,Jaesung ,Korea Republic,17,Midfielder,10-Aug-92,180,38,6,0
+CRISTIANO,RONALDO ,Portugal,7,Forward,5-Feb-85,185,154,85,0
+Ludwig,AUGUSTINSSON ,Sweden,6,Defender,21-Apr-94,181,20,1,0
+Jannik,VESTERGAARD ,Denmark,3,Defender,3-Aug-92,200,16,1,null
+James,MEREDITH ,Australia,3,Defender,5-Apr-88,179,2,0,null
+Michael,KROHN-DEHLI ,Denmark,2,Midfielder,6-Jun-83,171,59,6,0
+Andrew,NABBOUT ,Australia,11,Forward,17-Dec-92,178,6,1,0
+JO,Hyeonwoo ,Korea Republic,23,Goalkeeper,25-Sep-91,189,9,0,0
+Lovre,KALINIC ,Croatia,12,Goalkeeper,3-Apr-90,201,12,0,0
+Francis,UZOHO ,Nigeria,23,Goalkeeper,28-Oct-98,196,9,0,0
+Reza,GHOOCHANNEJHAD ,IR Iran,16,Forward,20-Sep-87,180,43,17,null
+Pontus,JANSSON ,Sweden,18,Defender,13-Feb-91,194,17,0,0
+Alex,IWOBI ,Nigeria,18,Forward,3-May-96,185,21,5,0
+Mile,JEDINAK ,Australia,15,Midfielder,3-Aug-84,188,79,20,0
+GONCALO,GUEDES ,Portugal,17,Forward,29-Nov-96,179,14,3,0
+Steven,NZONZI ,France,15,Midfielder,15-Dec-88,197,9,0,0
+Valon,BEHRAMI ,Switzerland,11,Midfielder,19-Apr-85,184,83,2,0
+Manuel,DA COSTA,Morocco,4,Defender,6-May-86,187,30,2,0
+Yeltsin,TEJEDA ,Costa Rica,17,Midfielder,17-Mar-92,179,50,0,0
+Thorgan,HAZARD ,Belgium,16,Midfielder,29-Mar-93,174,13,1,0
+HWANG,Heechan ,Korea Republic,11,Forward,26-Jan-96,177,17,2,0
+WILLIAN, ,Brazil,19,Midfielder,9-Aug-88,175,62,8,0
+Xherdan,SHAQIRI ,Switzerland,23,Midfielder,10-Oct-91,169,74,21,0
+Jan,VERTONGHEN ,Belgium,5,Defender,24-Apr-87,189,108,9,0
+Kenneth,OMERUO ,Nigeria,22,Defender,17-Oct-93,185,40,0,0
+Abdoulaye,DIALLO ,Senegal,1,Goalkeeper,30-Mar-92,189,16,0,null
+Ian,SMITH ,Costa Rica,4,Defender,6-Mar-98,177,5,0,0
+Cristian,ZAPATA ,Colombia,2,Defender,30-Sep-86,187,53,2,0
+Antonio,RUEDIGER ,Germany,16,Defender,3-Mar-93,191,25,1,0
+Enzo,PEREZ ,Argentina,15,Midfielder,22-Feb-86,178,26,1,0
+LEE,Yong ,Korea Republic,2,Defender,24-Dec-86,180,31,0,0
+Aleksandr,GOLOVIN ,Russia,17,Midfielder,30-May-96,178,23,3,0
+Amine,HARIT ,Morocco,18,Midfielder,18-Jun-97,179,8,0,0
+Johan,DJOUROU ,Switzerland,20,Defender,18-Jan-87,192,75,2,0
+Mathew,RYAN ,Australia,1,Goalkeeper,8-Apr-92,184,47,0,0
+MOHAMMED,ALSAHLAWI ,Saudi Arabia,10,Forward,10-Jan-87,179,42,28,0
+Niklas,SUELE ,Germany,15,Defender,3-Sep-95,195,12,0,0
+Vincent,KOMPANY ,Belgium,4,Defender,10-Apr-86,190,82,4,0
+Youri,TIELEMANS ,Belgium,17,Midfielder,7-May-97,176,13,0,0
+KOKE, ,Spain,8,Midfielder,8-Jan-92,176,43,0,0
+Mahdi,TORABI ,IR Iran,2,Midfielder,10-Sep-94,185,16,4,null
+Birkir,SAEVARSSON ,Iceland,2,Defender,11-Nov-84,186,82,1,0
+Andreas,CORNELIUS ,Denmark,21,Forward,16-Mar-93,195,21,4,0
+DANILO, ,Brazil,14,Defender,15-Jul-91,184,19,0,0
+Andrija,ZIVKOVIC ,Serbia,7,Midfielder,11-Jul-96,169,11,0,0
+Adem,LJAJIC ,Serbia,22,Midfielder,29-Sep-91,182,33,6,0
+Dawid,KOWNACKI ,Poland,23,Forward,14-Mar-97,185,4,1,0
+Michael,LANG ,Switzerland,6,Defender,8-Feb-91,185,27,2,1
+Adama,MBENGUE ,Senegal,2,Defender,1-Dec-93,180,3,0,null
+Bartosz,BERESZYNSKI ,Poland,18,Defender,12-Jul-92,182,11,0,0
+Takashi,INUI ,Japan,14,Midfielder,2-Jun-88,169,31,6,0
+SHIKABALA, ,Egypt,18,Forward,5-Mar-86,183,32,2,null
+Roman,BUERKI ,Switzerland,21,Goalkeeper,14-Nov-90,188,9,0,null
+BETO, ,Portugal,22,Goalkeeper,1-May-82,183,14,0,null
+Olivier,GIROUD ,France,9,Forward,30-Sep-86,193,81,31,0
+Martin,CAMPANA ,Uruguay,12,Goalkeeper,29-May-89,184,1,0,null
+Edison,FLORES ,Peru,20,Forward,14-May-94,170,32,9,0
+Eden,HAZARD ,Belgium,10,Forward,7-Jan-91,173,92,25,0
+John,Obi MIKEL,Nigeria,10,Midfielder,22-Apr-87,188,85,6,0
+Erick,GUTIERREZ ,Mexico,5,Midfielder,15-Jun-95,176,8,0,null
+Igor,SMOLNIKOV ,Russia,23,Defender,8-Aug-88,179,28,0,1
+BRUNO,FERNANDES ,Portugal,16,Midfielder,8-Sep-94,183,8,1,0
+Nicolai,JORGENSEN ,Denmark,9,Forward,15-Jan-91,194,34,8,0
+Gabriel,TORRES ,Panama,9,Forward,31-Oct-88,180,74,14,0
+OMAR,HAWSAWI ,Saudi Arabia,5,Defender,27-Sep-85,185,41,3,0
+Faycal,FAJR ,Morocco,11,Midfielder,1-Aug-88,178,26,2,0
+Youssouf,SABALY ,Senegal,12,Defender,5-Mar-93,174,9,0,0
+Danijel,SUBASIC ,Croatia,23,Goalkeeper,27-Oct-84,191,44,0,0
+Jonas,KNUDSEN ,Denmark,5,Defender,16-Sep-92,187,4,0,0
+Kevin,TRAPP ,Germany,12,Goalkeeper,8-Jul-90,189,3,0,null
+ABDULMALEK,ALKHAIBRI ,Saudi Arabia,11,Midfielder,13-Mar-86,177,33,0,null
+Jonas,HECTOR ,Germany,3,Defender,27-May-90,185,40,3,0
+Khalid,BOUTAIB ,Morocco,13,Forward,24-Apr-87,190,22,10,0
+Filip,KOSTIC ,Serbia,17,Midfielder,1-Nov-92,184,26,2,0
+MOHAMED,SALAH ,Egypt,10,Forward,15-Jun-92,175,58,37,0
+Kelechi,IHEANACHO ,Nigeria,14,Forward,10-Mar-96,183,20,8,0
+MARCELO, ,Brazil,12,Defender,12-May-88,174,59,6,0
+Marcos,URENA ,Costa Rica,21,Forward,5-Mar-90,181,64,14,0
+Ilya,KUTEPOV ,Russia,3,Defender,29-Jul-93,190,12,0,0
+Sadio,MANE ,Senegal,10,Forward,10-Apr-92,175,55,15,0
+Jesus,CORONA ,Mexico,17,Midfielder,6-Jan-93,174,38,7,0
+RUI,PATRICIO ,Portugal,1,Goalkeeper,15-Feb-88,189,73,0,0
+Sergio,BUSQUETS ,Spain,5,Midfielder,16-Jul-88,189,107,2,0
+Ahmed,TAGNAOUTI ,Morocco,22,Goalkeeper,5-Apr-96,186,5,0,null
+Vedran,CORLUKA ,Croatia,5,Defender,5-Feb-86,192,103,4,0
+Rurik,GISLASON ,Iceland,19,Midfielder,25-Feb-88,184,49,3,0
+Koen,CASTEELS ,Belgium,13,Goalkeeper,25-Jun-92,197,0,0,null
+Uros,SPAJIC ,Serbia,5,Defender,13-Feb-93,188,5,0,null
+Steve,MANDANDA ,France,16,Goalkeeper,28-Mar-85,187,28,0,0
+AHMED,ELMOHAMADY ,Egypt,3,Defender,9-Sep-87,183,84,2,null
+RAMADAN,SOBHY ,Egypt,14,Forward,23-Jan-97,183,28,1,0
+GABRIEL,JESUS ,Brazil,9,Forward,3-Apr-97,175,22,10,0
+Anderson,SANTAMARIA ,Peru,4,Defender,10-Jan-92,183,8,0,0
+Jefferson,LERMA ,Colombia,16,Midfielder,25-Oct-94,179,9,0,0
+SHERIF,EKRAMY ,Egypt,16,Goalkeeper,10-Jul-83,193,23,0,null
+Rodney,WALLACE ,Costa Rica,13,Midfielder,17-Jun-88,180,29,4,0
+Blerim,DZEMAILI ,Switzerland,15,Midfielder,12-Apr-86,180,69,11,0
+Ola,TOIVONEN ,Sweden,20,Forward,3-Jul-86,192,64,14,0
+KIM,Seunggyu ,Korea Republic,1,Goalkeeper,30-Sep-90,187,33,0,null
+David,DE GEA,Spain,1,Goalkeeper,7-Nov-90,190,33,0,0
+Jose,GIMENEZ ,Uruguay,2,Defender,20-Jan-95,185,46,6,0
+Breel,EMBOLO ,Switzerland,7,Forward,14-Feb-97,184,29,3,0
+Hugo,LLORIS ,France,1,Goalkeeper,26-Dec-86,188,104,0,0
+Yvon,MVOGO ,Switzerland,12,Goalkeeper,6-Jun-94,186,0,0,null
+Jose,CARVALLO ,Peru,21,Goalkeeper,1-Mar-86,182,6,0,null
+Hannes,HALLDORSSON ,Iceland,1,Goalkeeper,27-Apr-84,193,52,0,0
+Hamdi,NAGUEZ ,Tunisia,21,Defender,28-Oct-92,186,19,5,0
+Khadim,NDIAYE ,Senegal,16,Goalkeeper,5-Apr-85,185,45,0,0
+Michy,BATSHUAYI ,Belgium,21,Forward,2-Oct-93,185,19,8,0
+Fakhreddine,BEN YOUSSEF,Tunisia,8,Forward,23-Jun-91,189,42,6,0
+Milan,BADELJ ,Croatia,19,Midfielder,25-Feb-89,186,41,2,0
+Mbaye,NIANG ,Senegal,19,Forward,19-Dec-94,184,11,1,0
+Luis,TEJADA ,Panama,18,Forward,28-Mar-82,183,106,43,0
+Yuto,NAGATOMO ,Japan,5,Defender,12-Sep-86,170,109,3,0
+Jesus,GALLARDO ,Mexico,23,Midfielder,15-Aug-94,177,27,0,0
+Ivan,STRINIC ,Croatia,3,Defender,17-Jul-87,186,49,0,0
+Anton,MIRANCHUK ,Russia,16,Midfielder,17-Oct-95,182,6,0,null
+Gylfi,SIGURDSSON ,Iceland,10,Midfielder,8-Sep-89,186,60,20,0
+Andre,CARRILLO ,Peru,18,Forward,14-Jun-91,182,49,6,0
+Jacek,GORALSKI ,Poland,6,Midfielder,21-Sep-92,172,7,0,0
+PEDRO,GEROMEL ,Brazil,4,Defender,21-Sep-85,190,2,0,null
+Lucas,VAZQUEZ ,Spain,11,Forward,1-Jul-91,173,9,0,0
+Hakim,ZIYACH ,Morocco,7,Midfielder,19-Mar-93,180,21,10,0
+Abdiel,ARROYO ,Panama,16,Forward,13-Dec-93,183,35,5,0
+Nacho,MONREAL ,Spain,16,Defender,26-Feb-86,179,22,1,null
+Mathew,LECKIE ,Australia,7,Forward,4-Feb-91,181,56,8,0
+Cristian,PAVON ,Argentina,22,Midfielder,21-Jan-96,169,9,0,0
+Juan,CUADRADO ,Colombia,11,Midfielder,26-May-88,179,73,8,0
+Branislav,IVANOVIC ,Serbia,6,Defender,22-Feb-84,185,105,13,0
+Keylor,NAVAS ,Costa Rica,1,Goalkeeper,15-Dec-86,185,84,0,0
+Iury,GAZINSKY ,Russia,8,Midfielder,20-Jul-89,180,10,1,0
+Davinson,SANCHEZ ,Colombia,23,Defender,12-Jun-96,187,13,0,0
+Victor,LINDELOF ,Sweden,3,Defender,17-Jul-94,187,25,1,0
+Monir,EL KAJOUI,Morocco,12,Goalkeeper,10-May-89,190,36,0,0
+Artur,JEDRZEJCZYK ,Poland,3,Defender,4-Nov-87,189,37,3,0
+Antoine,GRIEZMANN ,France,7,Forward,21-Mar-91,174,61,24,0
+Michael,MURILLO ,Panama,2,Defender,11-Feb-96,183,24,2,0
+Aymen,MATHLOUTHI ,Tunisia,16,Goalkeeper,14-Sep-84,182,72,0,0
+ALISSON, ,Brazil,1,Goalkeeper,2-Oct-92,193,31,0,0
+Iago,ASPAS ,Spain,17,Forward,1-Aug-87,176,13,6,0
+LEE,Seungwoo ,Korea Republic,10,Midfielder,6-Jan-98,170,6,0,0
+TREZIGUET, ,Egypt,21,Midfielder,1-Oct-94,181,29,2,0
+Tim,CAHILL ,Australia,4,Forward,6-Dec-79,180,107,50,0
+Karol,LINETTY ,Poland,8,Midfielder,2-Feb-95,176,20,1,null
+Marco,FABIAN ,Mexico,8,Forward,21-Jul-89,171,40,9,0
+BERNARDO,SILVA ,Portugal,11,Midfielder,10-Aug-94,173,29,2,0
+Ramin,REZAEIAN ,IR Iran,23,Defender,21-Mar-90,185,29,2,0
+Denis,ZAKARIA ,Switzerland,17,Midfielder,20-Nov-96,189,12,0,0
+Morteza,POURALIGANJI ,IR Iran,8,Defender,19-Apr-92,187,30,2,0
+Martin,BRAITHWAITE ,Denmark,11,Forward,5-Jun-91,180,24,1,0
+Carlos,SANCHEZ ,Uruguay,5,Midfielder,2-Dec-84,171,38,1,0
+Jackson,IRVINE ,Australia,22,Midfielder,7-Mar-93,180,22,2,0
+Christian,RAMOS ,Peru,15,Defender,4-Nov-88,182,73,3,0
+Mesut,OEZIL ,Germany,10,Midfielder,15-Oct-88,180,92,23,0
+Yann,SOMMER ,Switzerland,1,Goalkeeper,17-Dec-88,183,39,0,0
+Toni,KROOS ,Germany,8,Midfielder,4-Jan-90,182,86,13,0
+Giovani,DOS SANTOS,Mexico,10,Midfielder,11-May-89,178,106,19,0
+KOO,Jacheol ,Korea Republic,13,Midfielder,27-Feb-89,182,70,19,0
+Jens,Stryger LARSEN,Denmark,17,Defender,21-Feb-91,182,16,1,0
+ADRIEN,SILVA ,Portugal,23,Midfielder,15-Mar-89,176,27,1,0
+Remo,FREULER ,Switzerland,8,Midfielder,15-Apr-92,181,10,0,null
+Mohammad,Reza KHANZADEH,IR Iran,13,Defender,11-May-91,186,8,1,null
+Samuel,UMTITI ,France,5,Defender,14-Nov-93,183,25,3,0
+Ivan,RAKITIC ,Croatia,7,Midfielder,10-Mar-88,184,99,15,0
+Paolo,GUERRERO ,Peru,9,Forward,1-Jan-84,185,92,36,0
+Edson,ALVAREZ ,Mexico,21,Defender,24-Oct-97,186,17,1,0
+YASSER,ALSHAHRANI ,Saudi Arabia,13,Defender,25-May-92,170,38,0,0
+Ante,REBIC ,Croatia,18,Forward,21-Sep-93,185,22,2,0
+Tyronne,EBUEHI ,Nigeria,21,Defender,16-Dec-95,187,8,0,0
+Gaston,SILVA ,Uruguay,13,Defender,5-Mar-94,185,17,0,null
+Gotoku,SAKAI ,Japan,21,Defender,14-Mar-91,176,42,0,0
+Younes,BELHANDA ,Morocco,10,Midfielder,25-Feb-90,174,53,5,0
+Tin,JEDVAJ ,Croatia,13,Defender,28-Nov-95,184,13,0,0
+William,EKONG ,Nigeria,5,Defender,1-Sep-93,191,24,1,0
+NEYMAR, ,Brazil,10,Forward,5-Feb-92,175,90,57,0
+Sergej,MILINKOVIC-SAVIC ,Serbia,20,Midfielder,27-Feb-95,192,7,0,0
+Wataru,ENDO ,Japan,6,Defender,9-Feb-93,178,12,0,null
+Oribe,PERALTA ,Mexico,19,Forward,12-Jan-84,178,67,26,0
+Matthias,GINTER ,Germany,4,Defender,19-Jan-94,189,18,0,null
+Corentin,TOLISSO ,France,12,Midfielder,3-Aug-94,180,14,0,0
+MIRANDA, ,Brazil,3,Defender,7-Sep-84,186,52,2,0
+PHILIPPE,COUTINHO ,Brazil,11,Midfielder,12-Jun-92,172,41,12,0
+Diego,LAXALT ,Uruguay,17,Midfielder,7-Feb-93,178,10,0,0
+Johann,GUDMUNDSSON ,Iceland,7,Midfielder,27-Oct-90,179,69,7,0
+Santiago,ARIAS ,Colombia,4,Defender,13-Jan-92,177,45,0,0
+Wilmar,BARRIOS ,Colombia,5,Midfielder,16-Oct-93,178,13,0,0
+Filip,HELANDER ,Sweden,14,Defender,22-Apr-93,192,4,0,null
+Gen,SHOJI ,Japan,3,Defender,11-Dec-92,182,15,1,0
+Marco,ASENSIO ,Spain,20,Midfielder,21-Jan-96,182,15,0,0
+KIM,Jinhyeon ,Korea Republic,21,Goalkeeper,6-Jul-87,193,15,0,null
+Andres,INIESTA ,Spain,6,Midfielder,11-May-84,171,131,13,0
+Omid,EBRAHIMI ,IR Iran,9,Midfielder,16-Sep-87,178,32,0,0
+Gelson,FERNANDES ,Switzerland,16,Midfielder,2-Sep-86,180,67,2,null
+Ahmed,KHALIL ,Tunisia,15,Forward,21-Dec-94,187,3,0,0
+THIAGO,SILVA ,Brazil,2,Defender,22-Sep-84,183,76,6,0
+Lukasz,TEODORCZYK ,Poland,14,Forward,3-Jun-91,185,19,4,0
+Kenner,GUTIERREZ ,Costa Rica,22,Defender,9-Jun-89,178,9,0,null
+Dominik,LIVAKOVIC ,Croatia,1,Goalkeeper,9-Jan-95,188,1,0,null
+Saeid,EZATOLAHI ,IR Iran,6,Midfielder,1-Oct-96,190,27,2,0
+Cheikhou,KOUYATE ,Senegal,8,Midfielder,21-Dec-89,189,51,3,0
+Toby,ALDERWEIRELD ,Belgium,2,Defender,2-Mar-89,186,83,3,0
+Aron,GUNNARSSON ,Iceland,17,Midfielder,22-Apr-89,181,80,2,0
+Pedro,AQUINO ,Peru,23,Midfielder,13-Apr-95,174,16,0,0
+Mateus,URIBE ,Colombia,15,Midfielder,21-Mar-91,182,11,0,0
+Rafael,MARQUEZ ,Mexico,4,Defender,13-Feb-79,184,148,15,0
+Thomas,DELANEY ,Denmark,8,Midfielder,3-Sep-91,180,31,4,0
+Guillermo,VARELA ,Uruguay,4,Defender,24-Mar-93,173,5,0,0
+ROBERTO,FIRMINO ,Brazil,20,Forward,2-Oct-91,181,25,7,0
+DOUGLAS,COSTA ,Brazil,7,Forward,14-Sep-90,182,27,3,0
+Johan,VENEGAS ,Costa Rica,11,Forward,27-Nov-88,183,49,10,0
+Javier,AQUINO ,Mexico,20,Midfielder,11-Feb-90,166,53,0,null
+Oscar,DUARTE ,Costa Rica,6,Defender,3-Jun-89,186,38,2,0
+Franco,ARMANI ,Argentina,12,Goalkeeper,16-Oct-86,189,2,0,0
+Fabian,SCHAER ,Switzerland,22,Defender,20-Dec-91,186,42,7,0
+Lucas,HERNANDEZ ,France,21,Defender,14-Feb-96,183,12,0,0
+Jesse,LINGARD ,England,7,Midfielder,15-Dec-92,175,18,2,0
+Salif,SANE ,Senegal,6,Midfielder,25-Aug-90,196,21,0,0
+Milos,VELJKOVIC ,Serbia,13,Defender,26-Sep-95,188,3,0,0
+Mateo,KOVACIC ,Croatia,8,Midfielder,6-May-94,178,46,1,0
+Danny,VUKOVIC ,Australia,18,Goalkeeper,27-Mar-85,187,1,0,null
+Kamil,GLIK ,Poland,15,Defender,3-Feb-88,190,60,4,0
+Miguel,LAYUN ,Mexico,7,Midfielder,25-Jun-88,180,68,6,0
+SAUL, ,Spain,7,Midfielder,21-Nov-94,183,10,0,null
+Jose,IZQUIERDO ,Colombia,21,Forward,7-Jul-92,171,6,1,0
+SALEM,ALDAWSARI ,Saudi Arabia,18,Midfielder,19-Aug-91,174,34,5,0
+Duje,CALETA-CAR ,Croatia,15,Defender,17-Sep-96,192,2,0,0
+Francisco,CALVO ,Costa Rica,15,Defender,8-Jul-92,180,38,4,0
+JOAO,MOUTINHO ,Portugal,8,Midfielder,8-Sep-86,170,113,7,0
+Julian,BRANDT ,Germany,20,Midfielder,2-May-96,183,19,1,0
+KI,Sungyueng ,Korea Republic,16,Midfielder,24-Jan-89,186,104,10,0
+Youssef,EN NESYRI,Morocco,19,Forward,1-Jun-97,188,17,3,0
+Domagoj,VIDA ,Croatia,21,Defender,29-Apr-89,184,65,3,0
+AMR,WARDA ,Egypt,22,Forward,17-Sep-93,179,20,0,0
+Jonas,LOSSL ,Denmark,16,Goalkeeper,1-Feb-89,195,1,0,null
+Haris,SEFEROVIC ,Switzerland,9,Forward,22-Feb-92,186,54,12,0
+Eric,DAVIS ,Panama,15,Defender,31-Mar-91,180,40,0,0
+Andy,POLO ,Peru,14,Midfielder,29-Sep-94,174,17,1,null
+Grzegorz,KRYCHOWIAK ,Poland,10,Midfielder,29-Jan-90,186,54,3,0
+SALMAN,ALFARAJ ,Saudi Arabia,7,Midfielder,1-Aug-89,179,42,3,0
+Gabriel,MERCADO ,Argentina,2,Defender,18-Mar-87,181,23,4,0
+Carlos,BACCA ,Colombia,7,Forward,8-Sep-86,181,48,14,0
+Gustav,SVENSSON ,Sweden,13,Midfielder,7-Feb-87,183,16,0,0
+James,RODRIGUEZ ,Colombia,10,Midfielder,12-Jul-91,180,66,21,0
+Adnan,JANUZAJ ,Belgium,18,Forward,5-Feb-95,180,9,1,0
+Cesar,AZPILICUETA ,Spain,14,Defender,28-Aug-89,178,22,0,null
+Robert,LEWANDOWSKI ,Poland,9,Forward,21-Aug-88,185,98,55,0
+Maximiliano,MEZA ,Argentina,13,Midfielder,15-Dec-92,180,6,0,0
+Roman,ZOBNIN ,Russia,11,Midfielder,11-Feb-94,185,17,0,0
+Rashid,MAZAHERI ,IR Iran,12,Goalkeeper,18-May-89,192,3,0,null
+JUNG,Wooyoung ,Korea Republic,15,Midfielder,14-Dec-89,186,32,1,0
+YASSER,ALMOSAILEM ,Saudi Arabia,21,Goalkeeper,27-Feb-84,186,33,0,0
+Thibaut,COURTOIS ,Belgium,1,Goalkeeper,11-May-92,199,65,0,0
+Predrag,RAJKOVIC ,Serbia,12,Goalkeeper,31-Oct-95,191,8,0,null
+Raul,RUIDIAZ ,Peru,11,Forward,25-Jul-90,169,32,4,0
+Mathias,JORGENSEN ,Denmark,13,Defender,23-Apr-90,191,15,1,0
+Giancarlo,GONZALEZ ,Costa Rica,3,Defender,8-Feb-88,186,71,2,0
+Fedor,KUDRIASHOV ,Russia,13,Defender,5-Apr-87,187,23,0,0
+Moussa,SOW ,Senegal,7,Forward,19-Jan-86,180,46,19,null
+Alfred,FINNBOGASON ,Iceland,11,Forward,1-Feb-89,185,50,14,0
+Ragnar,SIGURDSSON ,Iceland,6,Defender,19-Jun-86,187,80,3,0
+Moussa,WAGUE ,Senegal,22,Defender,4-Oct-98,177,10,1,0
+Chidozie,AWAZIEM ,Nigeria,20,Defender,1-Jan-97,192,3,0,null
+Lasse,SCHONE ,Denmark,19,Midfielder,27-May-86,178,39,3,0
+Aleksandr,EROKHIN ,Russia,21,Midfielder,13-Oct-89,191,19,0,0
+Andrei,LUNEV ,Russia,12,Goalkeeper,13-Nov-91,189,3,0,null
+Takashi,USAMI ,Japan,11,Midfielder,6-May-92,178,26,3,0
+Rodrigo,BENTANCUR ,Uruguay,6,Midfielder,25-Jun-97,187,12,0,0
+Aziz,BEHICH ,Australia,16,Defender,16-Dec-90,170,26,2,0
+Jan,BEDNAREK ,Poland,5,Defender,12-Apr-96,189,6,1,0
+KIM,Shinwook ,Korea Republic,9,Forward,14-Apr-88,197,51,10,0
+Slawomir,PESZKO ,Poland,17,Midfielder,19-Feb-85,173,44,2,0
+Roman,TORRES ,Panama,5,Defender,20-Mar-86,188,111,10,0
+Sime,VRSALJKO ,Croatia,2,Defender,10-Jan-92,181,41,0,0
+Lionel,MESSI ,Argentina,10,Forward,24-Jun-87,170,128,65,0
+Yury,ZHIRKOV ,Russia,18,Midfielder,20-Aug-83,180,87,2,0
+Mouez,HASSEN ,Tunisia,22,Goalkeeper,5-Mar-95,186,4,0,0
+Keisuke,HONDA ,Japan,4,Midfielder,13-Jun-86,182,98,37,0
+Felipe,BALOY ,Panama,23,Defender,24-Feb-81,185,101,4,0
+Gaku,SHIBASAKI ,Japan,7,Midfielder,28-May-92,175,22,3,0
+Yoshimar,YOTUN ,Peru,19,Midfielder,7-Apr-90,172,76,2,0
+Gerard,PIQUE ,Spain,3,Defender,2-Feb-87,194,102,5,0
+Tomoaki,MAKINO ,Japan,20,Defender,11-May-87,182,33,4,0
+Ehsan,HAJI SAFI,IR Iran,3,Defender,25-Feb-90,178,97,6,0
+Patrick,PEMBERTON ,Costa Rica,18,Goalkeeper,24-Apr-82,178,39,0,null
+Vahid,AMIRI ,IR Iran,11,Midfielder,2-Apr-88,179,39,1,0
+Ayoub,EL KAABI,Morocco,9,Forward,25-Jun-93,182,5,2,0
+Trent,SAINSBURY ,Australia,20,Defender,5-Jan-92,183,38,3,0
+Pedro,GALLESE ,Peru,1,Goalkeeper,23-Feb-90,189,42,0,0
+Rafal,KURZAWA ,Poland,21,Midfielder,29-Jan-93,182,4,0,0
+Axel,WITSEL ,Belgium,6,Midfielder,12-Jan-89,186,96,9,0
+Bjorn,SIGURDARSON ,Iceland,9,Forward,26-Feb-91,187,16,1,0
+Marcos,ACUNA ,Argentina,8,Defender,28-Oct-91,172,11,0,0
+Vladimir,GRANAT ,Russia,14,Defender,22-May-87,184,13,1,0
+Carlos,CACEDA ,Peru,12,Goalkeeper,27-Sep-91,184,6,0,null
+Kendall,WASTON ,Costa Rica,19,Defender,1-Jan-88,196,26,3,0
+MARQUINHOS, ,Brazil,13,Defender,14-May-94,183,27,0,0
+Vladimir,GABULOV ,Russia,20,Goalkeeper,19-Oct-83,190,10,0,null
+Brad,JONES ,Australia,12,Goalkeeper,19-Mar-82,193,6,0,null
+Jordan,HENDERSON ,England,8,Midfielder,17-Jun-90,183,44,0,0
+Presnel,KIMPEMBE ,France,3,Defender,13-Aug-95,182,3,0,0
+Jose,CALDERON ,Panama,12,Goalkeeper,14-Aug-85,187,32,0,null
+Andres,GUARDADO ,Mexico,18,Midfielder,28-Sep-86,167,151,25,0
+MOON,Seonmin ,Korea Republic,18,Midfielder,9-Jun-92,172,5,1,0
+ABDULLAH,ALKHAIBARI ,Saudi Arabia,15,Midfielder,16-Aug-96,175,5,0,null
+Jonathan,URRETAVISCAYA ,Uruguay,20,Forward,19-Mar-90,172,5,0,0
+Luka,MODRIC ,Croatia,10,Midfielder,9-Sep-85,172,113,14,0
+Mehdi,TAREMI ,IR Iran,17,Forward,18-Jul-92,187,29,11,0
+Henrik,DALSGAARD ,Denmark,14,Defender,27-Jul-89,190,15,0,0
+William,KVIST ,Denmark,7,Midfielder,24-Feb-85,185,81,2,0
+Alexander,SAMEDOV ,Russia,19,Midfielder,19-Jul-84,178,53,7,0
+Mario,GAVRANOVIC ,Switzerland,18,Forward,24-Nov-89,175,16,5,0
+Sofyan,AMRABAT ,Morocco,21,Midfielder,21-Aug-96,183,7,0,0
+MOHAMED,ABDELSHAFY ,Egypt,13,Defender,1-Jul-85,171,55,2,0
+Hamza,MENDYL ,Morocco,3,Defender,21-Oct-97,179,16,0,null
+Bryan,RUIZ ,Costa Rica,10,Midfielder,18-Aug-85,187,112,24,0
+Milos,DEGENEK ,Australia,2,Defender,28-Apr-94,187,18,0,null
+Alireza,JAHANBAKHSH ,IR Iran,18,Forward,11-Aug-93,180,41,4,0
+Sergio,AGUERO ,Argentina,19,Forward,2-Jun-88,172,89,39,0
+Matias,VECINO ,Uruguay,15,Midfielder,24-Aug-91,189,27,1,0
+Luka,JOVIC ,Serbia,19,Forward,23-Dec-97,181,2,0,0
+Karim,EL AHMADI,Morocco,8,Midfielder,27-Jan-85,179,55,1,0
+Aleksandar,KOLAROV ,Serbia,11,Defender,10-Nov-85,187,79,11,0
+RAPHAEL,GUERREIRO ,Portugal,5,Defender,22-Dec-93,170,28,2,0
+Randall,AZOFEIFA ,Costa Rica,14,Midfielder,30-Dec-84,182,60,3,0
+Ali,BEIRANVAND ,IR Iran,1,Goalkeeper,21-Sep-92,194,25,0,0
+Cristian,ANSALDI ,Argentina,4,Defender,20-Sep-86,181,5,1,null
+Viktor,FISCHER ,Denmark,15,Forward,9-Jun-94,181,20,3,0
+RICARDO, ,Portugal,15,Defender,6-Oct-93,174,5,0,0
+Andreas,CHRISTENSEN ,Denmark,6,Defender,10-Apr-96,192,20,1,0
+Luis,MURIEL ,Colombia,14,Forward,16-Apr-91,178,20,2,0
+YUN,Youngsun ,Korea Republic,5,Defender,4-Oct-88,185,7,0,0
+Lukas,LERAGER ,Denmark,18,Midfielder,12-Jul-93,186,5,0,0
+Oussama,HADDADI ,Tunisia,5,Defender,28-Jan-92,185,9,1,0
+Daniel,ARZANI ,Australia,17,Forward,4-Jan-99,171,5,1,0
+Ari,SKULASON ,Iceland,23,Defender,14-May-87,170,58,0,0
+ALI,GABR ,Egypt,2,Defender,1-Jan-89,191,25,1,0
+Camilo,VARGAS ,Colombia,12,Goalkeeper,9-Mar-89,185,5,0,null
+Paulo,DYBALA ,Argentina,21,Forward,15-Nov-93,177,13,0,0
+FILIPE,LUIS ,Brazil,6,Defender,9-Aug-85,182,35,2,0
+Nikola,MILENKOVIC ,Serbia,15,Defender,12-Oct-97,195,6,0,0
+Fedor,SMOLOV ,Russia,10,Forward,9-Feb-90,185,37,12,0
+Olafur,SKULASON ,Iceland,16,Midfielder,1-Apr-83,184,36,1,null
+ALI,ALBULAYHI ,Saudi Arabia,4,Defender,21-Nov-89,182,5,0,0
+Javier,MASCHERANO ,Argentina,14,Defender,8-Jun-84,174,147,3,0
+Diego,GODIN ,Uruguay,3,Defender,16-Feb-86,185,121,8,0
+Radamel,FALCAO ,Colombia,9,Forward,10-Feb-86,177,69,30,0
+Jaime,PENEDO ,Panama,1,Goalkeeper,26-Sep-81,183,134,0,0
+Roozbeh,CHESHMI ,IR Iran,4,Defender,24-Jul-93,192,10,1,0
+Kristoffer,NORDFELDT ,Sweden,23,Goalkeeper,23-Jun-89,190,8,0,null
+Marko,DMITROVIC ,Serbia,23,Goalkeeper,24-Jan-92,194,2,0,null
+Johnny,ACOSTA ,Costa Rica,2,Defender,21-Jul-83,176,69,2,0
+Ruben,LOFTUS-CHEEK ,England,21,Midfielder,23-Jan-96,190,8,0,0
+Igor,AKINFEEV ,Russia,1,Goalkeeper,8-Apr-86,185,111,0,0
+TAISEER,ALJASSAM ,Saudi Arabia,17,Midfielder,25-Jul-84,169,134,19,0
+Joel,OBI ,Nigeria,15,Midfielder,22-May-91,177,17,0,null
+Kari,ARNASON ,Iceland,14,Defender,13-Oct-82,191,69,5,0
+Majid,HOSSEINI ,IR Iran,19,Defender,20-Jun-96,183,4,0,0
+Marko,GRUJIC ,Serbia,16,Midfielder,13-Apr-96,190,7,0,null
+SON,Heungmin ,Korea Republic,7,Forward,8-Jul-92,183,70,23,0
+Lukasz,PISZCZEK ,Poland,20,Defender,3-Jun-85,184,65,3,0
+Pepe,REINA ,Spain,23,Goalkeeper,31-Aug-82,188,36,0,null
+Federico,FAZIO ,Argentina,6,Defender,17-Mar-87,199,10,1,0
+Yannick,CARRASCO ,Belgium,11,Midfielder,4-Sep-93,180,30,5,0
+Carlos,VELA ,Mexico,11,Forward,1-Mar-89,178,72,19,0
+ISCO, ,Spain,22,Midfielder,21-Apr-92,176,32,11,0
+Moussa,KONATE ,Senegal,14,Forward,3-Apr-93,180,28,9,0
+Wojciech,SZCZESNY ,Poland,1,Goalkeeper,18-Apr-90,195,37,0,0
+Elderson,ECHIEJILE ,Nigeria,3,Defender,20-Jan-88,185,59,2,null
+Blaise,MATUIDI ,France,14,Midfielder,9-Apr-87,180,72,9,0
+ANDRE,SILVA ,Portugal,9,Forward,6-Nov-95,184,25,12,0
+Danny,WELBECK ,England,14,Forward,26-Nov-90,184,40,16,0
+Sergey,IGNASHEVICH ,Russia,4,Defender,14-Jul-79,186,127,9,0
+Wilder,CARTAGENA ,Peru,16,Midfielder,23-Sep-94,179,4,0,0
+FERNANDINHO, ,Brazil,17,Midfielder,4-May-85,179,49,2,0
+Benjamin,MENDY ,France,22,Defender,17-Jul-94,183,8,0,0
+Simon,KJAER ,Denmark,4,Defender,26-Mar-89,191,79,3,0
+AYMAN,ASHRAF ,Egypt,12,Defender,9-Apr-91,176,3,1,null
+Ismael,DIAZ ,Panama,10,Forward,12-May-97,181,9,2,0
+Armando,COOPER ,Panama,11,Midfielder,26-Nov-87,173,99,7,0
+Sebastian,COATES ,Uruguay,19,Defender,7-Oct-90,196,31,1,0
+Lukasz,FABIANSKI ,Poland,22,Goalkeeper,18-Apr-85,190,46,0,0
+HUSSAIN,ALMOQAHWI ,Saudi Arabia,16,Midfielder,24-Mar-88,174,18,1,0
+Ricardo,RODRIGUEZ ,Switzerland,13,Defender,25-Aug-92,180,57,5,0
+Bassem,SRARFI ,Tunisia,18,Forward,25-Jun-97,176,6,0,0
+Nacer,CHADLI ,Belgium,22,Midfielder,2-Aug-89,187,51,6,0
+Joshua,RISDON ,Australia,19,Defender,27-Jul-92,169,11,0,0
+Romelu,LUKAKU ,Belgium,9,Forward,13-May-93,190,75,40,0
+Ogenyi,ONAZI ,Nigeria,17,Midfielder,25-Dec-92,172,50,1,null
+Fernando,MUSLERA ,Uruguay,1,Goalkeeper,16-Jun-86,190,102,0,0
+Edgar,BARCENAS ,Panama,8,Midfielder,23-Oct-93,175,32,0,0
+MAHMOUD,HAMDY ,Egypt,15,Defender,1-Jun-95,173,1,0,null
+ABDULLAH,ALMUAIOUF ,Saudi Arabia,1,Goalkeeper,23-Jan-87,178,9,0,0
+Ikechukwu,EZENWA ,Nigeria,1,Goalkeeper,16-Oct-88,181,24,0,null
+ABDALLA,SAID ,Egypt,19,Midfielder,13-Jul-85,176,41,6,0
+Jimmy,DURMAZ ,Sweden,21,Midfielder,22-Mar-89,180,46,3,0
+RUBEN,DIAS ,Portugal,13,Defender,14-May-97,187,1,0,null
+Mehdi,BENATIA ,Morocco,5,Defender,17-Apr-87,188,62,4,0
+FRED, ,Brazil,18,Midfielder,5-Mar-93,169,8,0,null
+Gary,CAHILL ,England,15,Defender,19-Dec-85,191,61,5,0
+Mbark,BOUSSOUFA ,Morocco,14,Midfielder,15-Aug-84,167,64,7,0
+OMAR,GABER ,Egypt,4,Midfielder,30-Jan-92,175,24,0,null
+MARWAN,MOHSEN ,Egypt,9,Forward,26-Feb-89,185,25,4,0
+JANG,Hyunsoo ,Korea Republic,20,Defender,28-Sep-91,187,54,3,0
+Saman,GHODDOS ,IR Iran,14,Forward,6-Sep-93,177,11,1,0
+Oscar,MURILLO ,Colombia,3,Defender,18-Apr-88,184,14,0,0
+Alfred,GOMIS ,Senegal,23,Goalkeeper,5-Sep-93,196,5,0,null
+John,OGU ,Nigeria,19,Midfielder,20-Apr-88,191,19,2,null
+Holmar,EYJOLFSSON ,Iceland,15,Defender,6-Aug-90,188,10,1,null
+Mikael,LUSTIG ,Sweden,2,Defender,13-Dec-86,189,70,6,0
+Paul,POGBA ,France,6,Midfielder,15-Mar-93,191,60,10,0
+Sami,KHEDIRA ,Germany,6,Midfielder,4-Apr-87,189,77,7,0
+Masaaki,HIGASHIGUCHI ,Japan,12,Goalkeeper,12-May-86,184,5,0,null
+Lucas,TORREIRA ,Uruguay,14,Midfielder,11-Feb-96,168,8,0,0
+Kosuke,NAKAMURA ,Japan,23,Goalkeeper,27-Feb-95,184,4,0,null
+Thomas,MEUNIER ,Belgium,15,Defender,12-Sep-91,190,30,6,0
+RODRIGO, ,Spain,9,Forward,6-Mar-91,182,9,2,0
+Saber,KHALIFA ,Tunisia,19,Forward,14-Oct-86,185,45,7,0
+Marc-Andre,TER STEGEN,Germany,22,Goalkeeper,30-Apr-92,187,20,0,null
+PEPE, ,Portugal,3,Defender,26-Feb-83,188,99,6,0
+Mame,DIOUF ,Senegal,9,Forward,16-Dec-87,185,46,10,0
+Aldo,CORZO ,Peru,3,Defender,20-May-89,172,24,0,null
+Jakub,BLASZCZYKOWSKI ,Poland,16,Midfielder,14-Dec-85,175,100,20,0
+Jordi,ALBA ,Spain,18,Defender,21-Mar-89,170,66,8,0
+Jerome,BOATENG ,Germany,17,Defender,3-Sep-88,192,73,1,1
+Filip,BRADARIC ,Croatia,14,Midfielder,11-Jan-92,186,5,0,0
+Moussa,DEMBELE ,Belgium,19,Midfielder,16-Jul-87,185,80,5,0
+Yuya,OSAKO ,Japan,15,Forward,18-May-90,182,33,8,0
+Gabriel,GOMEZ ,Panama,6,Midfielder,29-May-84,183,145,11,0
+Keita,BALDE ,Senegal,20,Forward,8-Mar-95,181,19,3,0
+Robin,OLSEN ,Sweden,1,Goalkeeper,8-Jan-90,198,23,0,0
+Ousmane,DEMBELE ,France,11,Forward,15-May-97,178,16,2,0
+Hector,HERRERA ,Mexico,16,Defender,19-Apr-90,180,70,5,0
+Mehdi,CARCELA ,Morocco,23,Midfielder,1-Jul-89,176,22,1,0
+Mario,MANDZUKIC ,Croatia,17,Forward,21-May-86,190,89,33,0
+Abel,AGUILAR ,Colombia,8,Midfielder,6-Jan-85,185,70,8,0
+Eiji,KAWASHIMA ,Japan,1,Goalkeeper,20-Mar-83,185,88,0,0
+Pione,SISTO ,Denmark,23,Forward,4-Feb-95,173,18,1,0
+Nico,ELVEDI ,Switzerland,4,Defender,30-Sep-96,187,6,0,null
+Mark,MILLIGAN ,Australia,5,Defender,4-Aug-85,178,71,6,0
+Karl-Johan,JOHNSSON ,Sweden,12,Goalkeeper,28-Jan-90,187,5,0,null
+Aaron,MOOY ,Australia,13,Midfielder,15-Sep-90,173,37,5,0
+Dylan,BRONN ,Tunisia,11,Defender,19-Jun-95,186,7,1,0
+Oscar,HILJEMARK ,Sweden,15,Midfielder,28-Jun-92,184,24,2,0
+YAHIA,ALSHEHRI ,Saudi Arabia,8,Midfielder,26-Jun-90,165,58,7,0
+Marcus,ROHDEN ,Sweden,19,Midfielder,11-May-91,182,12,1,null
+Julian,DRAXLER ,Germany,7,Midfielder,20-Sep-93,185,46,6,0
+Fabian,DELPH ,England,17,Defender,21-Nov-89,174,15,0,0
+TAISON, ,Brazil,21,Forward,13-Jan-88,172,8,1,null
+Maciej,RYBUS ,Poland,13,Midfielder,19-Aug-89,173,53,2,0
+KAHRABA, ,Egypt,11,Forward,13-Apr-94,182,25,3,0
+Nahitan,NANDEZ ,Uruguay,8,Midfielder,28-Dec-95,171,17,0,0
+Djibril,SIDIBE ,France,19,Defender,29-Jul-92,184,18,1,0
+Lamine,GASSAMA ,Senegal,21,Defender,20-Oct-89,181,40,0,0
+Tom,ROGIC ,Australia,23,Midfielder,16-Dec-92,189,40,7,0
+Wahbi,KHAZRI ,Tunisia,10,Forward,8-Feb-91,182,39,14,0
+Marko,PJACA ,Croatia,20,Forward,6-May-95,186,19,1,0
+Gonzalo,HIGUAIN ,Argentina,9,Forward,10-Dec-87,184,75,31,0
+Paolo,HURTADO ,Peru,7,Midfielder,27-Jul-90,174,34,3,0
+Jack,BUTLAND ,England,13,Goalkeeper,10-Mar-93,196,8,0,null
+Kamil,GROSICKI ,Poland,11,Midfielder,8-Jun-88,180,60,12,0
+Abdullahi,SHEHU ,Nigeria,12,Defender,12-Mar-93,182,16,0,0
+Timo,WERNER ,Germany,9,Forward,6-Mar-96,181,17,8,0
+Adolfo,MACHADO ,Panama,13,Defender,14-Feb-85,182,77,1,0
+Idrissa,Gana GUEYE,Senegal,5,Midfielder,26-Sep-89,174,58,1,0
+JU,Sejong ,Korea Republic,8,Midfielder,30-Oct-90,176,12,1,0
+Ivan,PERISIC ,Croatia,4,Forward,2-Feb-89,186,73,21,0
+Raul,JIMENEZ ,Mexico,9,Forward,5-May-91,188,65,14,0
+Anibal,GODOY ,Panama,20,Midfielder,10-Feb-90,183,91,1,0
+Lucas,BIGLIA ,Argentina,5,Midfielder,30-Jan-86,175,58,1,0
+Johan,MOJICA ,Colombia,17,Defender,21-Aug-92,185,8,1,0
+Kalidou,KOULIBALY ,Senegal,3,Defender,20-Jun-91,195,29,1,0
+David,OSPINA ,Colombia,1,Goalkeeper,31-Aug-88,183,87,0,0
+Hordur,MAGNUSSON ,Iceland,18,Defender,11-Feb-93,191,19,2,0
+Hotaru,YAMAGUCHI ,Japan,16,Midfielder,6-Oct-90,173,45,2,0
+Matthew,JURMAN ,Australia,6,Defender,8-Dec-89,190,4,0,null
+JUNG,Seunghyun ,Korea Republic,3,Defender,3-Apr-94,188,6,0,null
+FAHAD,ALMUWALLAD ,Saudi Arabia,19,Forward,14-Sep-94,168,48,10,0
+Wilfred,NDIDI ,Nigeria,4,Midfielder,16-Dec-96,184,20,0,0
+Emil,FORSBERG ,Sweden,10,Midfielder,23-Oct-91,179,41,7,0
+KIM,Minwoo ,Korea Republic,12,Defender,25-Feb-90,172,22,1,0
+AHMED,HEGAZY ,Egypt,6,Defender,25-Jan-91,194,48,1,0
+Runar,RUNARSSON ,Iceland,13,Goalkeeper,18-Feb-95,186,3,0,null
+Youssef,AIT BENNASSER,Morocco,15,Midfielder,7-Jul-96,184,14,0,null
+Denis,CHERYSHEV ,Russia,6,Midfielder,26-Dec-90,173,16,4,0
+Ferjani,SASSI ,Tunisia,13,Midfielder,18-Mar-92,186,44,4,0
+CASSIO, ,Brazil,16,Goalkeeper,6-Jun-87,195,1,0,null
+Phil,JONES ,England,16,Defender,21-Feb-92,182,27,0,0
+Luka,MILIVOJEVIC ,Serbia,4,Midfielder,7-Apr-91,186,30,1,0
+Karim,ANSARIFARD ,IR Iran,10,Forward,3-Apr-90,187,67,19,0
+Miguel,ARAUJO ,Peru,5,Defender,24-Oct-94,178,8,0,null
+Farid,DIAZ ,Colombia,18,Defender,20-Jul-83,170,13,0,null
+Noureddine,AMRABAT ,Morocco,16,Midfielder,31-Mar-87,178,48,4,0
+Josip,PIVARIC ,Croatia,22,Defender,30-Jan-89,176,23,0,0
+Dries,MERTENS ,Belgium,14,Forward,6-May-87,169,75,15,0
+Nicolas,TAGLIAFICO ,Argentina,3,Defender,31-Aug-92,169,8,0,0
+Nilson,LOYOLA ,Peru,22,Defender,26-Oct-94,179,3,0,null
+Daniel,AKPEYI ,Nigeria,16,Goalkeeper,8-Mar-86,187,6,0,null
+GO,Yohan ,Korea Republic,22,Defender,10-Mar-88,170,20,0,0
+Harry,KANE ,England,9,Forward,28-Jul-93,188,30,19,0
+Thomas,VERMAELEN ,Belgium,3,Defender,14-Nov-85,183,69,1,0
+Leon,GORETZKA ,Germany,14,Midfielder,6-Feb-95,189,16,6,0
+Kevin,DE BRUYNE,Belgium,7,Midfielder,28-Jun-91,181,68,15,0
+Kylian,MBAPPE ,France,10,Forward,20-Dec-98,178,22,8,0
+John,GUIDETTI ,Sweden,11,Forward,15-Apr-92,185,22,1,0
+Aleksandar,MITROVIC ,Serbia,9,Forward,16-Sep-94,189,41,17,0
+Alvaro,ODRIOZOLA ,Spain,12,Defender,14-Dec-95,178,4,1,null
+Harold,CUMMINGS ,Panama,3,Defender,1-Mar-92,183,48,0,0
+Kasper,SCHMEICHEL ,Denmark,1,Goalkeeper,5-Nov-86,190,39,0,0
+Ashkan,DEJAGAH ,IR Iran,21,Forward,5-Jul-86,181,46,9,null
+AHMED,FATHI ,Egypt,7,Defender,10-Nov-84,176,131,3,0
+Alex,RODRIGUEZ ,Panama,22,Goalkeeper,5-Aug-90,197,6,0,null
+Joel,CAMPBELL ,Costa Rica,12,Forward,26-Jun-92,178,79,15,0
+Dejan,LOVREN ,Croatia,6,Defender,5-Jul-89,188,46,2,0
+Makoto,HASEBE ,Japan,17,Midfielder,18-Jan-84,180,114,2,0
+Ngolo,KANTE ,France,13,Midfielder,29-Mar-91,168,31,1,0
+Leon,BALOGUN ,Nigeria,6,Defender,28-Jun-88,190,22,0,0
+Alberto,RODRIGUEZ ,Peru,2,Defender,31-Mar-84,179,75,0,0
+Miguel,BORJA ,Colombia,19,Forward,26-Jan-93,183,8,2,0
+Bryan,IDOWU ,Nigeria,2,Defender,18-May-92,179,8,1,0
+Artem,DZYUBA ,Russia,22,Forward,22-Aug-88,196,28,14,0
+Raphael,VARANE ,France,4,Defender,25-Apr-93,191,49,3,0
+THIAGO, ,Spain,10,Midfielder,11-Apr-91,174,31,2,0
+Martin,SILVA ,Uruguay,23,Goalkeeper,25-Mar-83,187,11,0,null
+Christian,ERIKSEN ,Denmark,10,Midfielder,14-Feb-92,181,82,23,0
+Yassine,MERIAH ,Tunisia,4,Defender,2-Jul-93,183,20,1,0
+Harry,MAGUIRE ,England,6,Defender,5-Mar-93,193,12,1,0
+Marouane,FELLAINI ,Belgium,8,Midfielder,22-Nov-87,194,87,18,0
+Simon,MIGNOLET ,Belgium,12,Goalkeeper,6-Mar-88,193,21,0,null
+TAREK,HAMED ,Egypt,8,Midfielder,24-Oct-88,169,26,0,0
+Celso,BORGES ,Costa Rica,5,Midfielder,27-May-88,187,114,18,0
+Hiroki,SAKAI ,Japan,19,Defender,12-Apr-90,183,47,0,0
+RICARDO,QUARESMA ,Portugal,20,Forward,26-Sep-83,175,80,10,0
+Marco,REUS ,Germany,11,Forward,31-May-89,180,34,10,0
+Florian,THAUVIN ,France,20,Forward,26-Jan-93,180,5,0,0
+Shinji,OKAZAKI ,Japan,9,Forward,16-Apr-86,174,116,50,0
+Albin,EKDAL ,Sweden,8,Midfielder,28-Jul-89,186,39,0,0
+Maya,YOSHIDA ,Japan,22,Defender,24-Aug-88,189,86,10,0
+JOAO,MARIO ,Portugal,10,Midfielder,19-Jan-93,179,40,2,0
+Yussuf,Yurary POULSEN,Denmark,20,Forward,15-Jun-94,193,31,5,0
+Martin,CACERES ,Uruguay,22,Defender,7-Apr-87,178,81,4,0
+Arnor,TRAUSTASON ,Iceland,21,Midfielder,30-Apr-93,183,20,5,0
+Nemanja,RADONJIC ,Serbia,18,Forward,15-Feb-96,185,5,0,0
+Yoshinori,MUTO ,Japan,13,Forward,15-Jul-92,179,24,2,0
+Cheikh,NDOYE ,Senegal,11,Midfielder,29-Mar-86,192,29,3,0
+JOSE,FONTE ,Portugal,6,Defender,22-Dec-83,191,35,0,0
+Dani,CARVAJAL ,Spain,2,Defender,11-Jan-92,173,18,0,0
+Ashley,YOUNG ,England,18,Defender,9-Jul-85,175,39,7,0
+Kepa,ARRIZABALAGA ,Spain,13,Goalkeeper,3-Oct-94,189,1,0,null
+PARK,Jooho ,Korea Republic,6,Defender,16-Jan-87,174,37,0,0
+Ilkay,GUENDOGAN ,Germany,21,Midfielder,24-Oct-90,180,27,4,0
+MOHAMMED,ALOWAIS ,Saudi Arabia,22,Goalkeeper,10-Oct-91,187,7,0,0
+Alan,DZAGOEV ,Russia,9,Midfielder,17-Jun-90,178,59,9,0
+Mohamed,BEN AMOR,Tunisia,14,Midfielder,3-May-92,180,27,2,0
+HATAN,BAHBRI ,Saudi Arabia,9,Midfielder,16-Jul-92,170,8,0,0
+NACHO, ,Spain,4,Defender,18-Jan-90,179,19,1,0
+Kieran,TRIPPIER ,England,12,Defender,19-Sep-90,178,13,1,0
+Aziz,BOUHADDOUZ ,Morocco,20,Forward,30-Mar-87,188,17,3,0
+Manuel,AKANJI ,Switzerland,5,Defender,19-Jul-95,186,11,0,0
+Ghaylen,CHAALELI ,Tunisia,20,Forward,28-Feb-94,179,7,1,0
+MOHAMMED,ALBURAYK ,Saudi Arabia,6,Defender,15-Sep-92,173,12,0,0
+Antonio,RUKAVINA ,Serbia,2,Defender,26-Jan-84,177,49,0,0
+Martin,OLSSON ,Sweden,5,Defender,17-May-88,177,45,5,0
+Nahuel,GUZMAN ,Argentina,1,Goalkeeper,10-Feb-86,192,6,0,null
+Hugo,AYALA ,Mexico,2,Defender,31-Mar-87,188,45,1,0
+Ismaila,SARR ,Senegal,18,Forward,25-Feb-98,175,16,3,0
+Ellyes,SKHIRI ,Tunisia,17,Midfielder,10-May-95,185,8,0,0
+Christian,BOLANOS ,Costa Rica,7,Midfielder,17-May-84,178,84,7,0
+ESSAM,ELHADARY ,Egypt,1,Goalkeeper,15-Jan-73,190,159,0,0
+Andreas,GRANQVIST ,Sweden,4,Defender,16-Apr-85,192,77,8,0
+Maximiliano,GOMEZ ,Uruguay,18,Forward,14-Aug-96,186,7,0,0
+Albert,GUDMUNDSSON ,Iceland,4,Midfielder,15-Jun-97,177,6,3,0
+Dimitrios,PETRATOS ,Australia,21,Forward,10-Nov-92,176,2,0,null
+Kyle,WALKER ,England,2,Defender,28-May-90,178,40,0,0
+Granit,XHAKA ,Switzerland,10,Midfielder,27-Sep-92,183,66,10,0
+Thomas,MUELLER ,Germany,13,Midfielder,13-Sep-89,186,94,38,0
+Milad,MOHAMMADI ,IR Iran,5,Defender,29-Sep-93,178,21,0,0
+EDERSON, ,Brazil,23,Goalkeeper,17-Aug-93,188,1,0,null
+Tomi,JURIC ,Australia,9,Forward,22-Jul-91,190,38,8,0
+KIM,Younggwon ,Korea Republic,19,Defender,27-Feb-90,184,56,3,0
+Daniel,COLINDRES ,Costa Rica,9,Midfielder,10-Jan-85,180,13,0,0
+Jose,Luis RODRIGUEZ,Panama,21,Midfielder,19-Jun-98,180,5,0,0
+Masoud,SHOJAEI ,IR Iran,7,Midfielder,9-Jun-84,187,75,8,0
+Amir,ABEDZADEH ,IR Iran,22,Goalkeeper,26-Apr-93,186,1,0,null
+Piotr,ZIELINSKI ,Poland,19,Midfielder,20-May-94,177,36,5,0
+Kasper,DOLBERG ,Denmark,12,Forward,6-Oct-97,187,7,1,0
+Raheem,STERLING ,England,10,Forward,8-Dec-94,170,44,2,0
+Marcos,ROJO ,Argentina,16,Defender,20-Mar-90,189,59,3,0
+Sebastian,RUDY ,Germany,19,Midfielder,28-Feb-90,179,26,1,0
+Andrey,SEMENOV ,Russia,5,Defender,24-Mar-89,191,6,0,null
+Thomas,LEMAR ,France,8,Forward,12-Nov-95,172,13,3,0
+Ricardo,AVILA ,Panama,19,Midfielder,4-Feb-97,182,7,0,0
+Joshua,KIMMICH ,Germany,18,Defender,8-Feb-95,176,32,3,0
+Aleksandar,PRIJOVIC ,Serbia,8,Forward,21-Apr-90,191,10,1,0
+Yohan,BEN ALOUANE,Tunisia,3,Defender,28-Mar-87,185,5,0,0
+Jose,CUADRADO ,Colombia,22,Goalkeeper,1-Jun-85,180,1,0,null
+Daler,KUZIAEV ,Russia,7,Midfielder,15-Jan-93,182,11,0,0
+Alexey,MIRANCHUK ,Russia,15,Midfielder,17-Oct-95,185,19,4,0
+Nikola,KALINIC ,Croatia,16,Forward,5-Jan-88,187,42,15,null
+Eduardo,SALVIO ,Argentina,18,Defender,13-Jul-90,167,11,0,0
+MOHAMED,ELSHENAWY ,Egypt,23,Goalkeeper,18-Dec-88,191,5,0,0
+Maximiliano,PEREIRA ,Uruguay,16,Defender,8-Jun-84,173,125,3,null
+Frederik,SCHRAM ,Iceland,12,Goalkeeper,19-Jan-95,198,4,0,null
+Kara,MBODJI ,Senegal,4,Defender,22-Nov-89,192,43,5,null
+BRUNO,ALVES ,Portugal,2,Defender,27-Nov-81,187,96,11,null
+Odion,IGHALO ,Nigeria,9,Forward,16-Jun-89,188,22,4,0
+Andrej,KRAMARIC ,Croatia,9,Forward,19-Jun-91,177,38,10,0
+ANTHONY,LOPES ,Portugal,12,Goalkeeper,1-Oct-90,184,7,0,null
+Yassine,BOUNOU ,Morocco,1,Goalkeeper,5-Apr-91,190,34,0,null
+Thiago,CIONEK ,Poland,4,Defender,21-Apr-86,184,20,0,0
+Pape,Alioune NDIAYE,Senegal,17,Midfielder,27-Oct-90,181,17,1,0
+Emil,KRAFTH ,Sweden,16,Defender,2-Aug-94,181,15,0,0
+Cristhian,STUANI ,Uruguay,11,Forward,12-Oct-86,186,43,5,0
+Eric,DIER ,England,4,Midfielder,15-Jan-94,188,32,3,0
+Leander,DENDONCKER ,Belgium,23,Defender,15-Apr-95,188,6,0,0
